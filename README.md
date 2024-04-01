@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Deep Learning Indaba](https://github.com/Feel-The-AGI/About-Me/blob/main/DLI.jpg?raw=true "Deep Learning Indaba") <br>
+![Deep Learning Indaba](https://github.com/Feel-The-AGI/Feel-The-AGI/blob/main/DLI.jpg?raw=true "Deep Learning Indaba") <br>
 
 My old account @Jasiel-Stark8 got flagged so this is my new profile!
 
