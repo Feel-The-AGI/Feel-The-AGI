@@ -1,9 +1,12 @@
 # 💫 About Me:
 ![Deep Learning Indaba](https://github.com/Feel-The-AGI/Feel-The-AGI/blob/main/DLI.jpg?raw=true "Deep Learning Indaba") <br>
 
-My old account @Jasiel-Stark8 got flagged so this is my new profile!
+My old account @Jasiel-Stark8
 
 Python Software Engineer | AI Researcher | Deep Learning Indaba <br>
+
+Work: Deep Learning Research Scientist (Computer Vision) @University of Ghana <br>
+
 - 💡 **Working on:** AI paper on ML for mental health.
 - 🤝 **Collab on:** AI in healthcare, tech for mental wellness.
 - 🙏 **Seeking help:** Data analysis/model validation in mental health AI.
