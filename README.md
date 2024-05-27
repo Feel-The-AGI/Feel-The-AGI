@@ -7,12 +7,12 @@ Python Software Engineer | AI Researcher | Deep Learning Indaba <br>
 
 Work: Deep Learning Research Scientist (Computer Vision) @University of Ghana <br>
 
-- 💡 **Working on:** AI paper on ML for mental health.
+<!-- - 💡 **Working on:** AI paper on ML for mental health.
 - 🤝 **Collab on:** AI in healthcare, tech for mental wellness.
 - 🙏 **Seeking help:** Data analysis/model validation in mental health AI.
 - 📚 **Learning:** Advanced neural networks for health data.
 - 🗣️ **Ask about:** AI's impact on mental health diagnostics and ethics.
-- 🚀 **Fun fact:** Built an AI mental health assistant at a hackathon in a day!
+- 🚀 **Fun fact:** Built an AI mental health assistant at a hackathon in a day! -->
 
 
 ## 🌐 Socials:
