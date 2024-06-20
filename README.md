@@ -6,7 +6,8 @@
 AI Scientist | ex-Python Software Engineer | Deep Learning Indaba <br>
 
 Work: Chief AI Officer @[Global Talent Sports AB](https://globaltalent.pro/) <br>
-Hiring soon:
+Hiring soon: \
+
 **Core Roles**
    - Computer Vision Engineer
    - Machine Learning Engineer
@@ -19,6 +20,7 @@ Hiring soon:
   - Data Engineer Intern
   - Computer Vision Engineer Intern
   - MLOps Engineer
+  - Data Scientist
 
 <!-- - 💡 **Working on:** AI paper on ML for mental health.
 - 🤝 **Collab on:** AI in healthcare, tech for mental wellness.
