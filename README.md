@@ -6,7 +6,7 @@
 AI Scientist | ex-Python Software Engineer | Deep Learning Indaba <br>
 
 Work: Chief AI Officer @[Global Talent Sports AB](https://globaltalent.pro/) <br>
-Hiring soon: \
+Hiring soon: <br>
 
 **Core Roles**
    - Computer Vision Engineer
