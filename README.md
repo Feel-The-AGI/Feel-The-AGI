@@ -3,24 +3,8 @@
 
 <!-- My old account @Jasiel-Stark8 -->
 
-AI Scientist | ex-Python Software Engineer | Deep Learning Indaba <br>
+AI Researcher | ex-Python Software Engineer | Deep Learning Indaba <br>
 
-Work: Chief AI Officer @[Global Talent Sports AB](https://globaltalent.pro/) <br>
-Hiring soon: <br>
-
-**Core Roles**
-   - Computer Vision Engineer
-   - Machine Learning Engineer
-   - MLOps Engineer
-   - Data Engineer
-   - Data Scientist
-
-**Intern Roles**
-  - Machine Learning Engineer Intern
-  - Data Engineer Intern
-  - Computer Vision Engineer Intern
-  - MLOps Engineer
-  - Data Scientist
 
 <!-- - 💡 **Working on:** AI paper on ML for mental health.
 - 🤝 **Collab on:** AI in healthcare, tech for mental wellness.
