@@ -5,6 +5,11 @@
 
 AI Researcher | ex-Python Software Engineer | Deep Learning Indaba <br>
 
+What I do:
+- Deep Learning
+- Computer Vision
+- Reinforcement Learning (personal favorite outside my main research)
+
 
 <!-- - 💡 **Working on:** AI paper on ML for mental health.
 - 🤝 **Collab on:** AI in healthcare, tech for mental wellness.
