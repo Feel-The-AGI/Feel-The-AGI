@@ -10,6 +10,9 @@ What I do:
 - Computer Vision
 - Reinforcement Learning (personal favorite outside my main research)
 
+Where am I dying to work?
+- OpenAI 🧠💙
+
 
 <!-- - 💡 **Working on:** AI paper on ML for mental health.
 - 🤝 **Collab on:** AI in healthcare, tech for mental wellness.
