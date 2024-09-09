@@ -13,6 +13,8 @@ What I do:
 Where am I dying to work?
 - OpenAI 🧠💙
 
+I beg, please don't consider my commit graph, most of my contributions are to a provate repo thats not mine. It is for my professor.
+
 
 <!-- - 💡 **Working on:** AI paper on ML for mental health.
 - 🤝 **Collab on:** AI in healthcare, tech for mental wellness.
