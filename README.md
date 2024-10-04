@@ -9,8 +9,8 @@ What I do:
 - Deep Learning
 - Computer Vision
 - Reinforcement Learning (personal favorite outside my main research)
-
-- If Superintelligence was a religion 🧠💙
+\
+If Superintelligence was a religion 🧠💙
 
 I beg, please don't consider my commit graph, most of my contributions are to a provate repo thats not mine. It is for my professor.
 
