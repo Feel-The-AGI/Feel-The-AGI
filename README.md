@@ -10,8 +10,7 @@ What I do:
 - Computer Vision
 - Reinforcement Learning (personal favorite outside my main research)
 
-Where am I dying to work?
-- OpenAI 🧠💙
+- If Superintelligence was a religion 🧠💙
 
 I beg, please don't consider my commit graph, most of my contributions are to a provate repo thats not mine. It is for my professor.
 
