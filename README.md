@@ -3,7 +3,7 @@
 
 <!-- My old account @Jasiel-Stark8 -->
 
-AI Researcher | ex-Python Software Engineer | Deep Learning Indaba <br>
+AI Researcher | Python Software Engineer | Deep Learning Indaba <br>
 
 What I do:
 - Deep Learning
